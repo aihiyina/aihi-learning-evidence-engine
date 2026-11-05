@@ -1,0 +1,10 @@
+{
+  "sourceVersion": 12,
+  "sourceCommit": "f47441eac0f60e4762b452f2aa7d0ecf2c08e04c",
+  "workbenchTestsPassed": 114,
+  "whywhyTestsPassed": 22,
+  "pilotCompletedRequests": 13,
+  "initialCompletedRequests": 1,
+  "newProviderCallsDuringAudit": 0,
+  "scope": "Synthetic prototype only; no classroom outcome study"
+}

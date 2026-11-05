@@ -1,0 +1,11 @@
+{
+  "name": "aihi-teacher-review-source",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "test": "node --test tests/*.mjs"
+  }
+}

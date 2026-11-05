@@ -1,0 +1,324 @@
+{
+  "sourceSnapshot": "f47441eac0f60e4762b452f2aa7d0ecf2c08e04c",
+  "copiedFiles": [
+    {
+      "path": "teacher-workbench/public/app.js",
+      "source": "teacher-workbench-v12",
+      "sha256": "d6897edfddd7c7ae54bbd6a0ac51f0efb1eb50bf9008ee25338f6739703c3fc9",
+      "bytes": 27586
+    },
+    {
+      "path": "teacher-workbench/public/assets/aihi-logo.png",
+      "source": "teacher-workbench-v12",
+      "sha256": "e00e625441a9fffaf630fc82ebf7e320ee2d4f781082783224c603fbaa60c3fb",
+      "bytes": 739794
+    },
+    {
+      "path": "teacher-workbench/public/assets/cover-fractions.webp",
+      "source": "teacher-workbench-v12",
+      "sha256": "63b6c7becce6bd2eee80c73474a6c7554237378a877bcb185ac245134256780c",
+      "bytes": 1623520
+    },
+    {
+      "path": "teacher-workbench/public/assets/cover-plants.webp",
+      "source": "teacher-workbench-v12",
+      "sha256": "b15ff9590fd531cfc3a021041e483e980ed8dcc00c4003333aac9fc7bb5eb9d9",
+      "bytes": 1902902
+    },
+    {
+      "path": "teacher-workbench/public/assets/cover-reading.webp",
+      "source": "teacher-workbench-v12",
+      "sha256": "8da7b1b390d8dd3711487c959aa3e49107d02ce7988ace8bec463529a3794cb5",
+      "bytes": 1743356
+    },
+    {
+      "path": "teacher-workbench/public/assets/hero-paper.webp",
+      "source": "teacher-workbench-v12",
+      "sha256": "5b7f057c42a831034ef8db6a6c730e979b0a2b1021bed9fba9f0e187790b479d",
+      "bytes": 1332766
+    },
+    {
+      "path": "teacher-workbench/public/assets/icon-arrow-left.svg",
+      "source": "teacher-workbench-v12",
+      "sha256": "fb495f166641eb7de49a14e92c8ebcb962a8079c94b8c06b999cdf06ddd670e4",
+      "bytes": 294
+    },
+    {
+      "path": "teacher-workbench/public/assets/icon-download.svg",
+      "source": "teacher-workbench-v12",
+      "sha256": "3248672289879d9c16bd91ef0f6c352b78eb1ddba2c15593ec7d34f4d1b0fb27",
+      "bytes": 350
+    },
+    {
+      "path": "teacher-workbench/public/assets/icon-upload.svg",
+      "source": "teacher-workbench-v12",
+      "sha256": "a7da491d0c763bd3df297093e891a0dad7a1a8051610afc8af823953c8f8da64",
+      "bytes": 348
+    },
+    {
+      "path": "teacher-workbench/public/favicon.svg",
+      "source": "teacher-workbench-v12",
+      "sha256": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7",
+      "bytes": 712
+    },
+    {
+      "path": "teacher-workbench/public/index.html",
+      "source": "teacher-workbench-v12",
+      "sha256": "cd4fc202bf22f8f164aeade197479c33d52711ef0bd5f1c5f102127cd34e8e9b",
+      "bytes": 15952
+    },
+    {
+      "path": "teacher-workbench/public/lesson.js",
+      "source": "teacher-workbench-v12",
+      "sha256": "35182ff3a037152d8572411b4eb1f00af845b538001dfba116081a09e2683c41",
+      "bytes": 2292
+    },
+    {
+      "path": "teacher-workbench/public/revision.js",
+      "source": "teacher-workbench-v12",
+      "sha256": "a556c0cc8675088178f907006f6b3835f6d16615136995c0d39886f3456c81c9",
+      "bytes": 3903
+    },
+    {
+      "path": "teacher-workbench/public/style.css",
+      "source": "teacher-workbench-v12",
+      "sha256": "aa3a24af60084c4323f5935c6098b2b2dd425f622438894b599f55a35b870776",
+      "bytes": 27165
+    },
+    {
+      "path": "teacher-workbench/public/tokens.css",
+      "source": "teacher-workbench-v12",
+      "sha256": "8735e471aeea446828396e4ebea389e5082465c4ab7ec86c83e29b034e06d6df",
+      "bytes": 821
+    },
+    {
+      "path": "teacher-workbench/server/meta-pilot.mjs",
+      "source": "teacher-workbench-v12",
+      "sha256": "e4081ba61be69654646bc5c2a9d1aa0c82448a0da1363effddb79d3ebba2f329",
+      "bytes": 25099
+    },
+    {
+      "path": "teacher-workbench/server/meta-trial.mjs",
+      "source": "teacher-workbench-v12",
+      "sha256": "3d9be443ea93feb621416750d644497ab6d29a67949c143c2eebd70788ebf6b6",
+      "bytes": 8196
+    },
+    {
+      "path": "teacher-workbench/tests/ai-ui.test.mjs",
+      "source": "teacher-workbench-v12",
+      "sha256": "8621cf085210067623865c002e0a3e4f06f821415227280d179f4e752862f3bc",
+      "bytes": 5861
+    },
+    {
+      "path": "teacher-workbench/tests/design.test.mjs",
+      "source": "teacher-workbench-v12",
+      "sha256": "0c0a19ecc6cad6b0668fa17024576125f0fe6efe3643b7ae9fd9914c31017c20",
+      "bytes": 610
+    },
+    {
+      "path": "teacher-workbench/tests/design005.test.mjs",
+      "source": "teacher-workbench-v12",
+      "sha256": "527d1aead2ef1e7a441474360a80d8a80288e807bb698c273971f92b2eff4e1f",
+      "bytes": 3276
+    },
+    {
+      "path": "teacher-workbench/tests/design012.test.mjs",
+      "source": "teacher-workbench-v12",
+      "sha256": "02b61f3f6b0fd9441622abe6e3730bb5c18cea7b5c32f3876b0106c8b63cdb2b",
+      "bytes": 2001
+    },
+    {
+      "path": "teacher-workbench/tests/lesson.test.mjs",
+      "source": "teacher-workbench-v12",
+      "sha256": "e2ae70c65754539a730fbe10a24a4fafdc4e84c3890ddf5eb4fede04ab3faccc",
+      "bytes": 3507
+    },
+    {
+      "path": "teacher-workbench/tests/meta-diagnostic.test.mjs",
+      "source": "teacher-workbench-v12",
+      "sha256": "da8cd1d72835b6d5c594c03aadebf5c322f0954b43720fc91390ecf46223bdb9",
+      "bytes": 1895
+    },
+    {
+      "path": "teacher-workbench/tests/meta-pilot.test.mjs",
+      "source": "teacher-workbench-v12",
+      "sha256": "2ad4df0ec17494c6b5431e2cae344cd53f2d1c69e9c13f85752d40203eca7924",
+      "bytes": 21951
+    },
+    {
+      "path": "teacher-workbench/tests/meta-trial.test.mjs",
+      "source": "teacher-workbench-v12",
+      "sha256": "59bb84aec8b516b1415fe9146c182e7d9a4a0514e06d8e1e04130b255e180297",
+      "bytes": 6539
+    },
+    {
+      "path": "teacher-workbench/tests/pilot-ui.test.mjs",
+      "source": "teacher-workbench-v12",
+      "sha256": "20458ea0ecaa28a60a58b9bcab4c2eff54ef3de8ac3bcb3284cbdefecaf98648",
+      "bytes": 6397
+    },
+    {
+      "path": "teacher-workbench/tests/revision.test.mjs",
+      "source": "teacher-workbench-v12",
+      "sha256": "eeb0dba63e2f06f181ce74b232eb8752d85ccd5b364d9e9d31a7faad8587c8a5",
+      "bytes": 3757
+    },
+    {
+      "path": "teacher-workbench/tests/ui.test.mjs",
+      "source": "teacher-workbench-v12",
+      "sha256": "c852a4d8a3473e2ca5a6a4388554ff42cfb1f807394c77418597a4fc7c0b6b58",
+      "bytes": 14247
+    },
+    {
+      "path": "teacher-workbench/db/index.ts",
+      "source": "teacher-workbench-v12",
+      "sha256": "dc7610b00b918e0ffff1360a63626f16655ced3064b2eaf96095a4101fb14bcd",
+      "bytes": 423
+    },
+    {
+      "path": "teacher-workbench/db/schema.ts",
+      "source": "teacher-workbench-v12",
+      "sha256": "13d4d1b3b86d6e2f94fd92a1446ba0a81984f8834ebf43dd70554635c4edb704",
+      "bytes": 1570
+    },
+    {
+      "path": "teacher-workbench/drizzle/0000_romantic_network.sql",
+      "source": "teacher-workbench-v12",
+      "sha256": "d0d37dba0f3312ed8760c89c3b0774a11c4ac2f1e2b8656873494691352057bd",
+      "bytes": 389
+    },
+    {
+      "path": "teacher-workbench/drizzle/0001_parallel_layla_miller.sql",
+      "source": "teacher-workbench-v12",
+      "sha256": "1742c3dc144c5444cb82d7e879dcaecb96c01f573b55ad49c3e322929218be5c",
+      "bytes": 760
+    },
+    {
+      "path": "teacher-workbench/drizzle/meta/0000_snapshot.json",
+      "source": "teacher-workbench-v12",
+      "sha256": "1dd899b7027300ace67bf627f4118f70d388094f881a2c5f39e47e5ebe98f054",
+      "bytes": 2617
+    },
+    {
+      "path": "teacher-workbench/drizzle/meta/0001_snapshot.json",
+      "source": "teacher-workbench-v12",
+      "sha256": "e898de41c98adbabb51f88951a9b6a24d90fddcb6172f84c914ccd9b2777c6d9",
+      "bytes": 7111
+    },
+    {
+      "path": "teacher-workbench/drizzle/meta/_journal.json",
+      "source": "teacher-workbench-v12",
+      "sha256": "390bc0c060c08f5e94422896dae5bddb0e5fd13f3c87a0aab718884aa9a8a94f",
+      "bytes": 355
+    },
+    {
+      "path": "teacher-workbench/app/api/ai/diagnostic/route.ts",
+      "source": "teacher-workbench-v12",
+      "sha256": "cbe6d86e3ba43e802d7314c0891c7151045c55e5bf841d7359ab26c4ddf8c8f0",
+      "bytes": 335
+    },
+    {
+      "path": "teacher-workbench/app/api/ai/pilot/revise/route.ts",
+      "source": "teacher-workbench-v12",
+      "sha256": "a2727e810fba317ae529293709e42ffc79d45f44a3c3cc80ea4bcd775ca234a8",
+      "bytes": 222
+    },
+    {
+      "path": "teacher-workbench/app/api/ai/pilot/status/route.ts",
+      "source": "teacher-workbench-v12",
+      "sha256": "25f2f76729072399de8364a4fd932fcf8c5567ff812c402be7d1a94ee049ff53",
+      "bytes": 198
+    },
+    {
+      "path": "teacher-workbench/app/api/ai/revise/route.ts",
+      "source": "teacher-workbench-v12",
+      "sha256": "56eb281088cdbe45d1f239238598df466332677a3ddeb2cfddf54b9c4ab9d369",
+      "bytes": 209
+    },
+    {
+      "path": "teacher-workbench/app/api/ai/status/route.ts",
+      "source": "teacher-workbench-v12",
+      "sha256": "713290f38af51fd8843a03cd586f7360b5765e745d313c473ddf60974444c715",
+      "bytes": 185
+    },
+    {
+      "path": "whywhy-local/whywhy/__init__.py",
+      "source": "WHYWHY-v0.1",
+      "sha256": "18e28c9f76377a20e4f5f0b2b2d02c98c964471bdf7565080f94ee447ea46d8a",
+      "bytes": 93
+    },
+    {
+      "path": "whywhy-local/whywhy/app.py",
+      "source": "WHYWHY-v0.1",
+      "sha256": "93eac11c5bd968883b26346a5d2fcd034235d09776336b62776ac1f981562baa",
+      "bytes": 3870
+    },
+    {
+      "path": "whywhy-local/whywhy/core.py",
+      "source": "WHYWHY-v0.1",
+      "sha256": "de1c24abfba9d6b5df1629d64ec335aae7718a0b8544c6b559a4f4846f944f64",
+      "bytes": 4998
+    },
+    {
+      "path": "whywhy-local/whywhy/storage.py",
+      "source": "WHYWHY-v0.1",
+      "sha256": "c2782f88e1eaf0db6fa2aaadd3d81a6d7ea4fa74e8abe00c56dd5901166ce68d",
+      "bytes": 4103
+    },
+    {
+      "path": "whywhy-local/static/index.html",
+      "source": "WHYWHY-v0.1",
+      "sha256": "a69aade2e3296ecd221a83972f1bcd2dd13bdf85b0212d79d6bcd8026d0c36f8",
+      "bytes": 17789
+    },
+    {
+      "path": "whywhy-local/tests/test_api.py",
+      "source": "WHYWHY-v0.1",
+      "sha256": "bd6090d0c6ff49a8936c4cbbafad2f0836b7fbf26b2f78d9ce0c26e888893c48",
+      "bytes": 2698
+    },
+    {
+      "path": "whywhy-local/tests/test_core.py",
+      "source": "WHYWHY-v0.1",
+      "sha256": "d9b68ec64f714d98671ee66dd28261c08005d65ab515f63ef2e8e0af871c1217",
+      "bytes": 1396
+    },
+    {
+      "path": "whywhy-local/requirements.txt",
+      "source": "WHYWHY-v0.1",
+      "sha256": "97a7c75ca2be869023593041a70ce8725e0d3164ab38ecd28aa316acf5c48e9b",
+      "bytes": 58
+    },
+    {
+      "path": "whywhy-local/requirements-dev.txt",
+      "source": "WHYWHY-v0.1",
+      "sha256": "5b0d8b1296a5213053e5c6247f2163400d57b2ccd173d2b6c64dc847944ed67d",
+      "bytes": 51
+    },
+    {
+      "path": "whywhy-local/pytest.ini",
+      "source": "WHYWHY-v0.1",
+      "sha256": "c809c969ec7e11b9ff37784e9c6fcc0b7c5148d168e18b05aed797e03fbd6ead",
+      "bytes": 27
+    },
+    {
+      "path": "whywhy-local/start_windows.bat",
+      "source": "WHYWHY-v0.1",
+      "sha256": "4e8c47be2987b4867246f14cd16ed0b8ce86947415a2694ed3bc8e1d2042185d",
+      "bytes": 264
+    },
+    {
+      "path": "whywhy-local/start_mac_linux.sh",
+      "source": "WHYWHY-v0.1",
+      "sha256": "2d9e31dc17b6a2ae80974f6455df1591855db50265bed853b7dc4792e831e7bb",
+      "bytes": 144
+    },
+    {
+      "path": "whywhy-local/README.md",
+      "source": "WHYWHY-v0.1",
+      "sha256": "bfcc79aef6bf337ec911516c8b87447958635700104a917af2a32ca50a3c4aea",
+      "bytes": 3915
+    }
+  ],
+  "note": "README, package metadata, evidence redaction and proposed license are audit packaging; implementation files are unchanged."
+}

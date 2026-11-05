@@ -1,0 +1,14 @@
+/* Original AIHI logo is an unchanged asset. Colors follow the later warm-paper direction. */
+:root {
+  --blue:#2864ce; --blue-strong:#1f55b6; --blue-soft:#edf4ff;
+  --green-deep:#278059; --green:#38a875;
+  --ink:#20201f; --text:#3e3e3b; --text-secondary:#65645f;
+  --text-disabled:#77746d; --coral:#d63d26; --coral-hover:#bc3320;
+  --paper:#fff; --surface-page:#faf9f6; --surface-soft:#f3f1ec;
+  --surface-disabled:#eae7e1; --border:#e1ded7; --border-strong:#bbb6ad;
+  --font-family:'Pretendard','Noto Sans CJK KR','Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',system-ui,sans-serif;
+  --font-body:16px; --radius-control:6px; --radius-panel:8px;
+  --shadow-paper:0 3px 24px #40372a0a,0 1px 4px #40372a08;
+  --motion-fast:140ms ease-out;
+  font-family:var(--font-family); font-synthesis:none; color-scheme:light;
+}
